@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/catagory_and_product_shipping",
+    "type": "magento-module",
+    "license": "GPL",
+    "homepage": "",
+    "description": "Perfect solution to add flat-rate shipping charges to any product/category specifically, that would work flawless regardless of the feature and functionality of your store.",
+    "authors": [
+    {
+        "name": "Khemchand Joshi",
+        "email": "khemchandj@a3logics.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
