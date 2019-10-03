@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Perfect solution to add flat-rate shipping charges to any product/category specifically, that would work flawless regardless of the feature and functionality of your store.
